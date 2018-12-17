@@ -1,2 +1,3 @@
 # genomes
-My SNP data from a v2 chip from 23andMe
+
+Assortment of genomics data from various testing companies. 
