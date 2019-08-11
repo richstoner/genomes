@@ -1,0 +1,4 @@
+60820188474029.grch37.indel.vcf.gz filter=lfs diff=lfs merge=lfs -text
+60820188474029.grch37.snp.vcf.gz filter=lfs diff=lfs merge=lfs -text
+60820188474029.grch37.sv.vcf.gz filter=lfs diff=lfs merge=lfs -text
+60820188474029.grch37.cnv.vcf.gz filter=lfs diff=lfs merge=lfs -text
